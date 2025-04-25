@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlysonMonteiroDV
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in .Net
+- 🌱 I’m currently learning C# and .Not 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [...](https://www.linkedin.com/in/alyson-monteiro-163590235/)
 - 😄 Pronouns: he his
