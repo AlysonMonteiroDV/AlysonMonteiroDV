@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlysonMonteiroDV
 - 👀 I’m interested in .Net
-- 🌱 I’m currently learning C# and .Not 
+- 🌱 I’m currently learning C# and .Net 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [...](https://www.linkedin.com/in/alyson-monteiro-da-silva-a12549265/)
 <!---
